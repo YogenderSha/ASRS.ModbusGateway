@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASRS.ModbusGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c30a8759159ea4b7a52c3fd592c9c572de040c34")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASRS.ModbusGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASRS.ModbusGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
