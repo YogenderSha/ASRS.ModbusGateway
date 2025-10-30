@@ -1,12 +1,154 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|c:\\users\\visha\\desktop\\projects\\asrs.modbusgateway\\asrs.modbusgateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|solutionrelative:asrs.modbusgateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|c:\\users\\visha\\desktop\\projects\\asrs.modbusgateway\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|c:\\users\\visha\\desktop\\projects\\asrs.modbusgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|c:\\users\\visha\\desktop\\projects\\asrs.modbusgateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|c:\\users\\visha\\desktop\\projects\\asrs.modbusgateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|c:\\users\\visha\\desktop\\projects\\asrs.modbusgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|c:\\users\\visha\\desktop\\projects\\asrs.modbusgateway\\models\\plcsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|solutionrelative:models\\plcsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|c:\\users\\visha\\desktop\\projects\\asrs.modbusgateway\\models\\mqttsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802F76-15D2-8219-D6EB-AA19A3C9AAF7}|ASRS.ModbusGateway.csproj|solutionrelative:models\\mqttsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAADgv6UAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:03:48.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PLCSettings.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\Models\\PLCSettings.cs",
+              "RelativeDocumentMoniker": "Models\\PLCSettings.cs",
+              "ToolTip": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\Models\\PLCSettings.cs",
+              "RelativeToolTip": "Models\\PLCSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:48:15.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T09:53:55.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T10:02:07.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ASRS.ModbusGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\ASRS.ModbusGateway.csproj",
+              "RelativeDocumentMoniker": "ASRS.ModbusGateway.csproj",
+              "ToolTip": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\ASRS.ModbusGateway.csproj",
+              "RelativeToolTip": "ASRS.ModbusGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T05:07:22.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T09:16:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T09:17:02.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MqttSettings.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\Models\\MqttSettings.cs",
+              "RelativeDocumentMoniker": "Models\\MqttSettings.cs",
+              "ToolTip": "C:\\Users\\visha\\Desktop\\Projects\\ASRS.ModbusGateway\\Models\\MqttSettings.cs",
+              "RelativeToolTip": "Models\\MqttSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:19:24.518Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

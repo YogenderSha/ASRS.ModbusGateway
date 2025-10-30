@@ -56,3 +56,4 @@ C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\obj\Debug\net8.0\refint\ASRS.
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\obj\Debug\net8.0\ASRS.ModbusGateway.pdb
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\obj\Debug\net8.0\ASRS.ModbusGateway.genruntimeconfig.cache
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\obj\Debug\net8.0\ref\ASRS.ModbusGateway.dll
+C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\bin\Debug\net8.0\MQTTnet.dll
