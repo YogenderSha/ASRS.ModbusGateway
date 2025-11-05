@@ -32,6 +32,7 @@ C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\bin\Debug\net8.0\Microsoft.Ex
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\bin\Debug\net8.0\MQTTnet.dll
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\bin\Debug\net8.0\System.IO.Ports.dll
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
@@ -56,4 +57,3 @@ C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\obj\Debug\net8.0\refint\ASRS.
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\obj\Debug\net8.0\ASRS.ModbusGateway.pdb
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\obj\Debug\net8.0\ASRS.ModbusGateway.genruntimeconfig.cache
 C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\obj\Debug\net8.0\ref\ASRS.ModbusGateway.dll
-C:\Users\visha\Desktop\Projects\ASRS.ModbusGateway\bin\Debug\net8.0\MQTTnet.dll
